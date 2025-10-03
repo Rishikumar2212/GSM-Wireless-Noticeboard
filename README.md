@@ -9,7 +9,7 @@ Feature Description 📲 GSM SMS Reading Reads SMS sent to SIM card 📟 16x2 LC
 🧠 How it Works (Flow): 
 Cellular Network [User Sends SMS] → GSM Module → PC/Java Program → Arduino UNO/Microcontoller with LCD → Extracts Message → LCD Displays it
 
-🧾 Components Used: Component Quantity Purpose Arduino UNO 1 Main brain GSM Module (SIM800L/SIM900A) 1 Receives SMS SIM Card 1 Receives the message 16x2 LCD Display 1 Shows messages Potentiometer 1 LCD contrast control Power Supply (5V 2A) 1 GSM Module Power Jumper Wires + Breadboard -- Connections LED 1 Status Indication
+🧾 Components Used: Component Quantity Purpose Arduino UNO 1, Main brain GSM Module (SIM800L/SIM900A) 1, Receives SMS SIM Card 1, Receives the message 16x2 LCD Display 1, Shows messages Potentiometer 1, LCD contrast control Power Supply (5V 2A) 1, GSM Module Power Jumper Wires + Breadboard -- Connections LED 1 Status Indication.
 
 🧾 Code Explanation:
 
