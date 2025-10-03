@@ -42,7 +42,7 @@ Turns off echo (ATE0)
 
 Waits until SIM is "READY"
 
-✅ ✅ Example SMS: bash Copy Edit #Hello Rohan* This message will be shown on LCD as:
+✅ ✅ Example SMS: bash Copy Edit #Hello Rishi* This message will be shown on LCD as:
 
 nginx Copy Edit Hello Rohan
 
